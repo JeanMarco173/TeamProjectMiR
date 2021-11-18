@@ -1,2 +1,7 @@
 # TeamProjectMiR
-Proyecto grupal MiR 
+Proyecto grupal MiR
+
+# Ramas
+
+## Dev
+## Master
